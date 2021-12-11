@@ -50,6 +50,11 @@ Here are some ideas to get you started:
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 <br />
+
+![Alt Text](https://media0.giphy.com/media/rNtchZTL8RAtO/giphy.gif?cid=ecf05e47xzvln0hu541g196djxweb02xkftlr808l9al8x7o&rid=giphy.gif&ct=g)
+
+
+
 <br />
 
 
