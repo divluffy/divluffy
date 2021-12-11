@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="divluffy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="divluffy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 
-<br />
+
 <br />
 
 ## Languages and Tools:
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ![avatar1](https://user-images.githubusercontent.com/78326620/145672578-79de6ab2-bed3-47e2-a084-0ba08ec51fb8.gif)
 
-
+<br />
 
 
 [website]: https://divluffy.netlify.app/
