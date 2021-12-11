@@ -54,12 +54,10 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br />
-<br />
-<br />
-![Alt Text](https://media0.giphy.com/media/rNtchZTL8RAtO/giphy.gif?cid=ecf05e47xzvln0hu541g196djxweb02xkftlr808l9al8x7o&rid=giphy.gif&ct=g)
 
-<br />
-<br />
+![avatar1](https://user-images.githubusercontent.com/78326620/145672578-79de6ab2-bed3-47e2-a084-0ba08ec51fb8.gif)
+
+
 
 
 [website]: https://divluffy.netlify.app/
