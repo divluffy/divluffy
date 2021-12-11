@@ -1,4 +1,4 @@
-### Hi there, I'm Ibrahim Jomaa [divluffy][website] 👋 
+### Hi there, [divluffy][website] 👋 
 
 
 Here are some ideas to get you started:
