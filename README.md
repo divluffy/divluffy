@@ -51,9 +51,6 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<br />
-<br />
-<br />
 
 ![avatar1](https://user-images.githubusercontent.com/78326620/145672578-79de6ab2-bed3-47e2-a084-0ba08ec51fb8.gif)
 
