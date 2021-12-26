@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me [facebook](https://www.facebook.com/div.luffy/)
 - ⚡ Be positive :)
-- 😄  He/she 
+- 😄 
 
 
 ## Connect with me:
