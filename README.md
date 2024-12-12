@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently improve myself
 - 💬 Ask me about Anything
-- 📫 How to reach me [facebook](https://www.facebook.com/div.luffy/)
+- 📫 How to reach me [linkedin](https://www.linkedin.com/in/ibrahim-jomaaa/)
 - ⚡ Be positive :)
 - 😄 
 
@@ -52,16 +52,11 @@ Here are some ideas to get you started:
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 <br />
-<br />
-
-![avatar1](https://user-images.githubusercontent.com/78326620/145672578-79de6ab2-bed3-47e2-a084-0ba08ec51fb8.gif)
-
-<br />
 
 
 [website]: https://divluffy.netlify.app/
 [youtube]: https://www.youtube.com/channel/UCpi7b6EQqRGoMeVYBgMQJ-A
-[instagram]: https://www.instagram.com/devnluffy
-[linkedin]: https://www.linkedin.com/in/ijomaa
+[instagram]: https://www.instagram.com/dev.luffy
+[linkedin]: https://www.linkedin.com/in/ibrahim-jomaaa
 [facebook]: https://www.facebook.com/div.luffy
 
