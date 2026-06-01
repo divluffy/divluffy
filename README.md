@@ -1,97 +1,24 @@
 # Ibrahim Jomaa
 
-**Founder & Technical Lead at Fanaraa**  
-Full-Stack Engineer building scalable social platforms for anime, manga, comics, creators, and communities.
+Founder & Technical Lead building **Fanaraa** — an anime and comics community platform.
 
-I am currently building **Fanaraa**, an anime and comics-focused social platform designed around community, content, creators, and monetization.
+I care about building meaningful digital products with clean engineering, strong product direction, and thoughtful user experience.
 
-My work focuses on product engineering, system architecture, backend design, frontend experience, cloud readiness, and AI-powered features.
+## 🚀 Currently
 
----
+- Building Fanaraa as a long-term startup product
+- Creating community-first experiences for anime and comics fans
+- Working across product, engineering, and platform strategy
 
-## Current Focus
+## ✨ Interests
 
-- Building **Fanaraa** as a real production startup
-- Designing scalable community systems: profiles, follows, posts, comments, reactions
-- Building anime, manga, articles, reviews, and creator-focused content experiences
-- Developing creator, influencer, freelancer, and producer business systems
-- Improving performance, SEO, authentication, authorization, moderation, and security
-- Integrating AI features where they add clear product value
-
----
-
-## Tech Stack
-
-### Frontend
-- Next.js App Router
-- React
-- TypeScript
-- Tailwind CSS
-- Modern responsive UI/UX
-- SEO-focused frontend architecture
-
-### Backend
-- NestJS
-- Node.js
-- PostgreSQL
-- REST APIs
-- Clean Architecture
-- Modular backend systems
-- Authentication and authorization
-
-### Infrastructure
-- AWS
-- Docker
-- CI/CD
-- GitHub Actions
-- Cloud-ready deployment architecture
-
-### Product Areas
 - Social platforms
-- Anime and comics communities
-- Creator platforms
-- Content management systems
-- Monetization systems
-- Moderation workflows
-- AI-assisted user experiences
+- Anime & comics communities
+- Creator ecosystems
+- Product design
+- Scalable software architecture
 
----
+## 🔗 Connect
 
-## What I Care About
-
-- Clean Architecture
-- Scalable system design
-- Secure authentication and authorization
-- Maintainable backend modules
-- Fast, SEO-friendly frontend pages
-- Clear product thinking
-- Professional UI/UX
-- Building products that can grow beyond MVP stage
-
----
-
-## Fanaraa
-
-**Fanaraa** is an anime and comics social community platform.
-
-The goal is to create a platform where fans, creators, influencers, freelancers, and producers can connect around anime, manga, comics, reviews, articles, and creative work.
-
-Core areas include:
-
-- Community profiles
-- Posts and reactions
-- Comments and discussions
-- Anime and manga pages
-- Articles and reviews
-- Creator and influencer programs
-- Freelancer and producer systems
-- Monetization features
-- Moderation tools
-- AI-powered product features
-
----
-
-## Connect
-
-- LinkedIn: [ibrahim-jomaaa](https://www.linkedin.com/in/ibrahim-jomaaa/)
 - GitHub: [@divluffy](https://github.com/divluffy)
+- LinkedIn: [Ibrahim Jomaa](https://www.linkedin.com/in/ibrahim-jomaaa/)
