@@ -1,62 +1,97 @@
-### Hi there, [divluffy][website] 👋 
+# Ibrahim Jomaa
 
+**Founder & Technical Lead at Fanaraa**  
+Full-Stack Engineer building scalable social platforms for anime, manga, comics, creators, and communities.
 
-Here are some ideas to get you started:
+I am currently building **Fanaraa**, an anime and comics-focused social platform designed around community, content, creators, and monetization.
 
-- 🌱 I’m currently improve myself
-- 💬 Ask me about Anything
-- 📫 How to reach me [linkedin](https://www.linkedin.com/in/ibrahim-jomaaa/)
-- ⚡ Be positive :)
-- 😄 
+My work focuses on product engineering, system architecture, backend design, frontend experience, cloud readiness, and AI-powered features.
 
+---
 
-## Connect with me:
-<br />
+## Current Focus
 
-[<img align="left" alt="divluffy" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="divluffy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="divluffy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
-[<img align="left" alt="divluffy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="divluffy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+- Building **Fanaraa** as a real production startup
+- Designing scalable community systems: profiles, follows, posts, comments, reactions
+- Building anime, manga, articles, reviews, and creator-focused content experiences
+- Developing creator, influencer, freelancer, and producer business systems
+- Improving performance, SEO, authentication, authorization, moderation, and security
+- Integrating AI features where they add clear product value
 
+---
 
-<br />
+## Tech Stack
 
-## Languages and Tools:
+### Frontend
+- Next.js App Router
+- React
+- TypeScript
+- Tailwind CSS
+- Modern responsive UI/UX
+- SEO-focused frontend architecture
 
+### Backend
+- NestJS
+- Node.js
+- PostgreSQL
+- REST APIs
+- Clean Architecture
+- Modular backend systems
+- Authentication and authorization
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
+### Infrastructure
+- AWS
+- Docker
+- CI/CD
+- GitHub Actions
+- Cloud-ready deployment architecture
 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
+### Product Areas
+- Social platforms
+- Anime and comics communities
+- Creator platforms
+- Content management systems
+- Monetization systems
+- Moderation workflows
+- AI-assisted user experiences
 
-[<img align="left" alt="CSS3" width="26px" src="https://avatars.githubusercontent.com/u/12504344?s=48&v=4" />][website]
+---
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
+## What I Care About
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
+- Clean Architecture
+- Scalable system design
+- Secure authentication and authorization
+- Maintainable backend modules
+- Fast, SEO-friendly frontend pages
+- Clear product thinking
+- Professional UI/UX
+- Building products that can grow beyond MVP stage
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
+---
 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
+## Fanaraa
 
-[<img align="left" alt="CSS3" width="26px" src="https://avatars.githubusercontent.com/u/1335026?s=48&v=4" />][website]
+**Fanaraa** is an anime and comics social community platform.
 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][website]
+The goal is to create a platform where fans, creators, influencers, freelancers, and producers can connect around anime, manga, comics, reviews, articles, and creative work.
 
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
+Core areas include:
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
+- Community profiles
+- Posts and reactions
+- Comments and discussions
+- Anime and manga pages
+- Articles and reviews
+- Creator and influencer programs
+- Freelancer and producer systems
+- Monetization features
+- Moderation tools
+- AI-powered product features
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+---
 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+## Connect
 
-<br />
-
-
-[website]: https://divluffy.netlify.app/
-[youtube]: https://www.youtube.com/channel/UCpi7b6EQqRGoMeVYBgMQJ-A
-[instagram]: https://www.instagram.com/dev.luffy
-[linkedin]: https://www.linkedin.com/in/ibrahim-jomaaa
-[facebook]: https://www.facebook.com/div.luffy
-
+- LinkedIn: [ibrahim-jomaaa](https://www.linkedin.com/in/ibrahim-jomaaa/)
+- GitHub: [@divluffy](https://github.com/divluffy)
